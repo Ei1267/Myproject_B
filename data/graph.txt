@@ -1,0 +1,10 @@
+# 图数据文件示例
+# 无向图测试数据
+vertex_count: 5
+directed: false
+A B 10
+A C 5
+B C 3
+B D 1
+C D 2
+D E 4
